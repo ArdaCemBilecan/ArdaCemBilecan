@@ -30,7 +30,7 @@
 <img align="left" style="margin-left:0.5em"  alt="MySQL" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"/>
 
 
-<br>
+<br><br>
 
 ### Connect with me:
 <a href="mailto:ardacembilecan501@gmail.com" ><img width="30px" align="left" style="margin-left:1.0em" alt="ardacembilecan | LinkedIn" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/><a/>
