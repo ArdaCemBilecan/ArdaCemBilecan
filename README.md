@@ -1,7 +1,7 @@
 ### Hi there 👋 I am Arda Cem BILECAN
 -:computer: I am a junior majoring in Computer Engineering at Çanakkale Onsekiz Mart University. <br>
 -:yum: I am current learning Machine Learning , Data Science. Besides I am trying to learn Cyber Security.<br>
--:shipit: One of my aim is to develop with new ideas to improve the world  
+-:shipit: One of my aim is to develop with new ideas to improve myself and the world  
 <hr>
 
 ### Languages and Tools:
