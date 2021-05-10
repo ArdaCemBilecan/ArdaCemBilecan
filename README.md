@@ -38,4 +38,4 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ArdaCemBilecan&show_icons=true&theme=tokyonight)
 
 
-[linkedin]: https://www.linkedin.com/in/arda-cem-bilecan/
+[linkedin]: https://www.linkedin.com/in/arda-cem-bilecan-190889184/
