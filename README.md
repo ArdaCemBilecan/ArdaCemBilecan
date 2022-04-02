@@ -1,7 +1,6 @@
 ### Hi there 👋 I am Arda Cem BILECAN
--:computer: I am a junior majoring in Computer Engineering at Çanakkale Onsekiz Mart University. <br>
--:yum: I am currently learning Machine Learning , Data Science. Besides I am trying to learn Cyber Security.<br>
--:shipit: One of my aim is to develop with new ideas to improve myself and the world  
+-:computer: I am a Senior in Computer Engineering at Çanakkale Onsekiz Mart University. <br>
+-:yum: I am currently learning Machine Learning , Data Science and Artificial Neurol Network .
 <hr>
 
 ### Languages and Tools:
@@ -13,11 +12,6 @@
 
 <img align="left" style="margin-left:0.5em"  alt="Python" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aspnet/aspnet.png" />
 
-<img align="left" style="margin-left:0.5em" alt="HTML5" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-
-<img align="left" style="margin-left:0.5em"  alt="CSS3" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-
-<img align="left" style="margin-left:0.5em"  alt="CS" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
 
 <img align="left" style="margin-left:0.5em"  alt="Python" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png" />
 
@@ -33,7 +27,7 @@
 <br><br>
 
 ### Connect with me:
-<a href="mailto:ardacembilecan501@gmail.com" ><img width="30px" align="left" style="margin-left:1.0em" alt="ardacembilecan | LinkedIn" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/><a/>
+<a href="mailto:ardacembilecan@gmail.com" ><img width="30px" align="left" style="margin-left:1.0em" alt="ardacembilecan | LinkedIn" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/><a/>
 
 [<img align="left" style="margin-left:1.0em"  alt="ardacembilecan | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][Linkedin] 
 
