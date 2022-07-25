@@ -1,5 +1,5 @@
 ### Hi there 👋 I am Arda Cem BILECAN
--:computer: I am a Senior in Computer Engineering at Çanakkale Onsekiz Mart University. <br>
+-:computer: I am a Junior Machine Learning and Artificial Intelligence Developer. <br>
 -:computer: I have lots of expriment about Machine Learning, Data Science and Artificial Neurol Network .
 <hr>
 
